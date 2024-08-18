@@ -1,0 +1,40 @@
+/* NAV START */
+.logo{
+    width: 160px;
+}
+
+.dropdown-toggle:hover{
+    background: yellow;
+    color: #000;
+}
+.nav-item:hover{
+    background: yellow;
+    color: #000;
+}
+
+.mleft-1{
+    margin-left: 10px;
+}
+
+.bg-purple{
+    background: purple;
+}
+/* NAV END */
+
+
+.section-2 img {
+    border-radius: 50%;
+    background: transparent;
+}
+.section-3 img {
+    width: 150px;
+    height: 100px;
+}
+.px-4{
+  padding: 20px 20px 20px 20px;
+}
+
+p{
+    font-size: 75%;
+    color: grey;
+}
